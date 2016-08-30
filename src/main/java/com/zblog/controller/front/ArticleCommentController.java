@@ -19,7 +19,7 @@ import com.zblog.util.Configer;
 import com.zblog.util.RegexpCheckUtils;
 
 /**
- * @author Ziv
+ * @author adanac
  *
  */
 @Controller
@@ -112,7 +112,7 @@ public class ArticleCommentController extends BaseController {
 
 	/**
 	 * 发送邮件服务
-	 * @author Ziv
+	 * @author adanac
 	 */
 	private class Email extends Thread {
 

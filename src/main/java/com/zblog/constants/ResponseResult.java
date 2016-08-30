@@ -1,7 +1,7 @@
 package com.zblog.constants;
 /**
  * 响应结果常量类
- * @author Ziv
+ * @author adanac
  *
  */
 public class ResponseResult {

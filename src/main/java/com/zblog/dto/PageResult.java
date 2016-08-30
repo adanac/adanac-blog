@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * 分页数据DTO
  * 对象分页结果
- * @author Ziv
+ * @author adanac
  * @param <E>
  */
 public class PageResult<E> {

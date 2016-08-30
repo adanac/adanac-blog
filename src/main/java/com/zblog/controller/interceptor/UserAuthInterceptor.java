@@ -11,7 +11,7 @@ import com.zblog.service.UserService;
 
 /**
  * 用户权限拦截
- * @author Ziv
+ * @author adanac
  *
  */
 public class UserAuthInterceptor extends HandlerInterceptorAdapter {

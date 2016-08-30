@@ -7,7 +7,7 @@ import com.zblog.dto.PageResult;
 
 /**
  * Article comment Service
- * @author Ziv
+ * @author adanac
  * @version 1.0
  */
 public interface ArticleCommentService {

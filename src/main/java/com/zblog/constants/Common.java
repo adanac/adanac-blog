@@ -2,7 +2,7 @@ package com.zblog.constants;
 
 /**
  * 公共常量
- * @author Ziv
+ * @author adanac
  */
 public class Common {
 	

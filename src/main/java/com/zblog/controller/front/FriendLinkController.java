@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.zblog.controller.BaseController;
 
 /**
- * @author Ziv
+ * @author adanac
  *
  */
 @Controller

@@ -18,7 +18,7 @@ import org.codehaus.jackson.map.type.TypeFactory;
 
 /**
  * 
- * @author Ziv JSON工具类
+ * @author adanac JSON工具类
  * @param <T>
  * 
  */

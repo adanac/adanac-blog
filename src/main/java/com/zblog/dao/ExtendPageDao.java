@@ -6,7 +6,7 @@ import com.zblog.dmo.ExtendPage;
 
 /**
  * 扩展页面Dao
- * @author Ziv
+ * @author adanac
  *
  */
 public interface ExtendPageDao {

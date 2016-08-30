@@ -17,7 +17,7 @@ import com.zblog.service.UserService;
  * BaseController 继承了ResponseResult常量类，
  * BaseController的集合了所以的Service对象，并实现自动注入
  * BaseController包含了Logger记录器
- * @author Ziv
+ * @author adanac
  */
 public class BaseController extends ResponseResult {
     

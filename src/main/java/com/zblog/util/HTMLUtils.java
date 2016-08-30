@@ -4,7 +4,7 @@ import org.jsoup.Jsoup;
 
 /**
  * HTML parse utils.
- * @author ziv
+ * @author adanac
  *
  */
 public class HTMLUtils {

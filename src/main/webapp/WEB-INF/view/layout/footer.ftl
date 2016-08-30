@@ -19,9 +19,9 @@
 		</#if>	
 	</p>
 	<p>
-		Copyright © Ziv小威 2014&nbsp;|&nbsp;Powered by 
+		Copyright © Adanac 2016&nbsp;|&nbsp;Powered by 
 		<a href="${rc.contextPath}/view/page.htm?id=3"/>ZBLOG</a>
-		&nbsp;|&nbsp;Theme by <a href="http://www.lofter.com">LOFTER</a>.
+		&nbsp;|&nbsp;Theme by <a href="http://www.lofter.com">Lofter</a>.
 	</p>
 </div>
 <script>
@@ -29,6 +29,6 @@
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-50390715-1', 'imziv.com');
+  ga('create', 'UA-50390715-1', 'iadanac.tk');
   ga('send', 'pageview');
 </script>

@@ -35,5 +35,5 @@
 			<a href="${rc.contextPath}/user/logout.htm">退出</a>
 		</#if>
 	</p>
-	<p>©Ziv小威 2012.Design By <a href="${rc.contextPath}/article/nav.htm">Ziv</a></p>		
+	<p>©Adanac 2016. Design By <a href="${rc.contextPath}/article/nav.htm">Adanac</a></p>		
 </div>

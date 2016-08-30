@@ -11,7 +11,7 @@ import com.zblog.controller.BaseController;
 import com.zblog.dmo.FriendlyLink;
 
 /**
- * @author Ziv
+ * @author adanac
  *
  */
 @Controller

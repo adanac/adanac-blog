@@ -6,7 +6,7 @@ import com.zblog.dmo.ArticleComment;
 
 /**
  * 评论数据
- * @author Ziv
+ * @author adanac
  *
  */
 public class CommentsDto {

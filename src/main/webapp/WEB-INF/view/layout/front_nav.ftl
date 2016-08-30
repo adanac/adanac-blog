@@ -1,5 +1,5 @@
 <div class="header">
-	<h1 class="logo"><a href="${rc.contextPath}/article/index.htm">Ziv小威</a></h1>
+	<h1 class="logo"><a href="${rc.contextPath}/article/index.htm">adanac</a></h1>
 	<!-- 菜单 -->
 	<ul class="nav">
 		<li>

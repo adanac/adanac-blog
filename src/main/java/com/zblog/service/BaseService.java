@@ -13,7 +13,7 @@ import com.zblog.dao.UserDao;
 /**
  * 
  * 基础的Service
- * @author Ziv
+ * @author adanac
  */
 public class BaseService {
 	
