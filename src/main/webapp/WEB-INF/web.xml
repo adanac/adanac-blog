@@ -52,7 +52,7 @@
 	</servlet-mapping>
 	
 	<welcome-file-list>
-		<welcome-file>/index.jsp</welcome-file>
+		<welcome-file>/article/index.htm</welcome-file>
 	</welcome-file-list>
 	
 	<!-- 404错误页面定位 -->
