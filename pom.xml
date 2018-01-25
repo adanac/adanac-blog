@@ -3,11 +3,12 @@
     <parent>
         <groupId>com.adanac.framework.archetypes</groupId>
         <artifactId>adanac-parent</artifactId>
-        <version>1.0.0</version>
+        <version>1.0</version>
+        <relativePath>../adanac-parent/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.adanac.module</groupId>
-    <artifactId>adanac-blog</artifactId>
+    <artifactId>blog-0</artifactId>
     <packaging>war</packaging>
     <version>0.0.1</version>
     <dependencies>
@@ -21,8 +22,8 @@
             <artifactId>javax.servlet-api</artifactId>
         </dependency>
         <!--<dependency>-->
-            <!--<groupId>com.adanac.framework</groupId>-->
-            <!--<artifactId>adanac-framework-common</artifactId>-->
+        <!--<groupId>com.adanac.framework</groupId>-->
+        <!--<artifactId>adanac-framework-common</artifactId>-->
         <!--</dependency>-->
         <dependency>
             <groupId>org.springframework</groupId>
@@ -75,12 +76,12 @@
             <artifactId>freemarker</artifactId>
         </dependency>
         <!--<dependency>-->
-            <!--<groupId>com.adanac.framework</groupId>-->
-            <!--<artifactId>adanac-log</artifactId>-->
+        <!--<groupId>com.adanac.framework</groupId>-->
+        <!--<artifactId>adanac-log</artifactId>-->
         <!--</dependency>-->
         <!--<dependency>-->
-            <!--<groupId>com.adanac.framework</groupId>-->
-            <!--<artifactId>adanac-dac</artifactId>-->
+        <!--<groupId>com.adanac.framework</groupId>-->
+        <!--<artifactId>adanac-dac</artifactId>-->
         <!--</dependency>-->
         <dependency>
             <groupId>commons-fileupload</groupId>
@@ -97,8 +98,8 @@
             <artifactId>gson</artifactId>
         </dependency>
         <!--<dependency>-->
-            <!--<groupId>org.apache</groupId>-->
-            <!--<artifactId>commons-dbutils</artifactId>-->
+        <!--<groupId>org.apache</groupId>-->
+        <!--<artifactId>commons-dbutils</artifactId>-->
         <!--</dependency>-->
         <dependency>
             <groupId>org.aspectj</groupId>
@@ -158,7 +159,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>adanac-blog</finalName>
+        <finalName>blog-0</finalName>
         <pluginManagement>
             <plugins>
                 <!-- war plugin config: 对静态资源进行过滤，替换变量。 如果你不需要，请移除这一段 -->

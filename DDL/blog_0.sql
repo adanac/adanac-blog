@@ -1,5 +1,5 @@
-CREATE DATABASE  IF NOT EXISTS `zblog` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `zblog`;
+CREATE DATABASE  IF NOT EXISTS `blog_0` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `blog_0`;
 -- MySQL dump 10.13  Distrib 5.6.17, for osx10.6 (i386)
 --
 -- Host: localhost    Database: zblog
@@ -152,6 +152,8 @@ CREATE TABLE `tb_user` (
   `image` text COMMENT '图片',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+
+INSERT INTO tb_user(`name`,`password`) VALUES ('root','nLZ2waM1aU4=');
 /*!40101 SET character_set_client = @saved_cs_client */;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
